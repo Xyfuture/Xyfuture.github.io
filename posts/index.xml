@@ -1,3 +1,18 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>All Posts - Xyfuture's Blog</title><link>http://xyfuture.github.io/posts/</link><description>All Posts | Xyfuture's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>xyfuture@foxmail.com (xyfuture)</managingEditor><webMaster>xyfuture@foxmail.com (xyfuture)</webMaster><lastBuildDate>Wed, 13 Jul 2022 21:42:27 +0800</lastBuildDate><atom:link href="http://xyfuture.github.io/posts/" rel="self" type="application/rss+xml"/><item><title>Hello,World</title><link>http://xyfuture.github.io/posts/test/</link><pubDate>Wed, 13 Jul 2022 21:42:27 +0800</pubDate><author>xyfuture</author><guid>http://xyfuture.github.io/posts/test/</guid><description>Hello,World 你好，hugo</description></item><item><title>Trail</title><link>http://xyfuture.github.io/posts/trail/</link><pubDate>Wed, 13 Jul 2022 20:21:18 +0800</pubDate><author>xyfuture</author><guid>http://xyfuture.github.io/posts/trail/</guid><description>d
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Xyfuture&#39;s Blog</title>
+        <link>http://xyfuture.github.io/posts/</link>
+        <description>All Posts | Xyfuture&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>xyfuture@foxmail.com (xyfuture)</managingEditor>
+            <webMaster>xyfuture@foxmail.com (xyfuture)</webMaster><lastBuildDate>Wed, 13 Jul 2022 20:21:18 &#43;0800</lastBuildDate><atom:link href="http://xyfuture.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Trail</title>
+    <link>http://xyfuture.github.io/posts/trail/</link>
+    <pubDate>Wed, 13 Jul 2022 20:21:18 &#43;0800</pubDate>
+    <author>xyfuture</author>
+    <guid>http://xyfuture.github.io/posts/trail/</guid>
+    <description><![CDATA[d
 ad ad
-reaw</description></item></channel></rss>
+reaw]]></description>
+</item>
+</channel>
+</rss>
