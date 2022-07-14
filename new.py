@@ -8,7 +8,7 @@ title: ""
 date: {}
 draft: false
 ---
-""".format(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
+""".format(datetime.datetime.now().strftime('%Y-%m-%d'))
 
 
 def check_file_name(file_name):
